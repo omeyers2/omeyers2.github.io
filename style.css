@@ -1,0 +1,61 @@
+body {
+    background: #ff4d4d;
+    margin: 20px 20px 20px 20px;
+    padding-bottom: 5%;
+  }
+
+ h1 {font-family: Impact, Charcoal, sans-serif;
+     Text-align:center;
+  }
+
+ h2 {font-family: Georgia, serif;
+
+  }
+
+ h3 {font-family: Georgia, serif;
+
+  }
+
+
+ p {font-family: Georgia, serif;
+    
+  }
+
+ul {font-family: Georgia, serif;
+    
+  }
+
+ol {font-family: Georgia, serif;
+    
+  }
+
+.homeimages {
+  text-align: center;
+}
+
+.foodimages {
+  text-align: center;
+}
+
+footer {
+   text-align:center;
+  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+nav {
+            font-family: Impact, Charcoal, sans-serif;
+	    font-size: 18px;
+            text-align:center;
+            border: 2px solid black;
+            margin: 20px 0 0 ;
+            padding: 10px 0;
+            background: white;
+	    
+         }
